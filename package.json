@@ -1,0 +1,19 @@
+{
+  "name": "qrcodejs",
+  "version": "0.0.1",
+  "description": "Cross-browser QRCode generator for javascript",
+  "main": "qrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metakermit/qrcodejs.git"
+  },
+  "author": "Sangmin Shim\", \"Sangmin Shim <ssm0123@gmail.com> (http://jaguarjs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metakermit/qrcodejs/issues"
+  },
+  "homepage": "https://github.com/metakermit/qrcodejs#readme"
+}
